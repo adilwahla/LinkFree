@@ -1,45 +1,45 @@
-## [0.76.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.1...v0.76.2) (2022-09-26)
+## [1.41.1](https://github.com/EddieHubCommunity/LinkFree/compare/v1.41.0...v1.41.1) (2023-01-07)
 
 
 ### Bug Fixes
 
-* jessiebelle ([#1802](https://github.com/EddieHubCommunity/LinkFree/issues/1802)) ([67346fe](https://github.com/EddieHubCommunity/LinkFree/commit/67346fe2be2276654a33eeb0548e136b8ec0a21e))
+* events page ([86b672e](https://github.com/EddieHubCommunity/LinkFree/commit/86b672e3e29e59b51bc827b8f2a261cc1c4c222d))
 
 
 
-## [0.76.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.0...v0.76.1) (2022-09-19)
-
-
-### Bug Fixes
-
-* improved hacktoberfest message ([83bb7d2](https://github.com/EddieHubCommunity/LinkFree/commit/83bb7d2ea24336c73575e55e406c6a5927cdbc4a))
-
-
-
-# [0.76.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.75.1...v0.76.0) (2022-09-16)
+# [1.41.0](https://github.com/EddieHubCommunity/LinkFree/compare/v1.40.9...v1.41.0) (2023-01-07)
 
 
 ### Features
 
-* label PR for nextjs ([#1757](https://github.com/EddieHubCommunity/LinkFree/issues/1757)) ([6f6a5bc](https://github.com/EddieHubCommunity/LinkFree/commit/6f6a5bc99c8309d803b551a2fce15d0c80c7818a))
+* event filters ([#2687](https://github.com/EddieHubCommunity/LinkFree/issues/2687)) ([574412d](https://github.com/EddieHubCommunity/LinkFree/commit/574412d5fd2285956f2932c908b9526531989cb7)), closes [#2605](https://github.com/EddieHubCommunity/LinkFree/issues/2605) [#2677](https://github.com/EddieHubCommunity/LinkFree/issues/2677)
 
 
 
-## [0.75.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.75.0...v0.75.1) (2022-09-15)
+## [1.40.9](https://github.com/EddieHubCommunity/LinkFree/compare/v1.40.8...v1.40.9) (2023-01-06)
 
 
 ### Bug Fixes
 
-* kumar-kalyan profile updated ([#1724](https://github.com/EddieHubCommunity/LinkFree/issues/1724)) ([a138059](https://github.com/EddieHubCommunity/LinkFree/commit/a138059f089ec4a067d5ecd64fe1689c2b7d1201))
+* json scheme for profile ([2f1cc98](https://github.com/EddieHubCommunity/LinkFree/commit/2f1cc9889fc4c1960bfecde3921c1b257204ccd2))
 
 
 
-# [0.75.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.74.1...v0.75.0) (2022-09-15)
+## [1.40.8](https://github.com/EddieHubCommunity/LinkFree/compare/v1.40.7...v1.40.8) (2023-01-05)
 
 
-### Features
+### Bug Fixes
 
-* border radius card ([#1581](https://github.com/EddieHubCommunity/LinkFree/issues/1581)) ([f8d9139](https://github.com/EddieHubCommunity/LinkFree/commit/f8d9139ccbce66f8060819493094ca692014b5c7))
+* docs line break ([#2688](https://github.com/EddieHubCommunity/LinkFree/issues/2688)) ([529c5dc](https://github.com/EddieHubCommunity/LinkFree/commit/529c5dcba084b9d8bdce795d30d767934e9623ad))
+
+
+
+## [1.40.7](https://github.com/EddieHubCommunity/LinkFree/compare/v1.40.6...v1.40.7) (2023-01-05)
+
+
+### Bug Fixes
+
+* testimonial action with jq ([d7481ca](https://github.com/EddieHubCommunity/LinkFree/commit/d7481ca952a5d494c46632eb1aa74c2b5cbb6eb7))
 
 
 
